@@ -27,7 +27,7 @@
 ![IMG20211230095441](https://user-images.githubusercontent.com/82927821/147799170-13b9681d-eea3-48f5-974b-c0d63a0f6c40.jpg)<br/>
 <br/>
 # Video Demo Project
-<br/>
-[![Video](https://img.youtube.com/vi/TQs7PqWAGs8/0.jpg)](https://www.youtube.com/embed/TQs7PqWAGs8)
-<br/>
+[![Video](https://img.youtube.com/vi/TQs7PqWAGs8/0.jpg)](https://www.youtube.com/embed/TQs7PqWAGs8) </br>
+Link:- https://www.youtube.com/watch?v=TQs7PqWAGs8 </br>
+
 # Referensi
