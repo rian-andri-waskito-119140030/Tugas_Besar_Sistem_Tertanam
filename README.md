@@ -35,3 +35,5 @@
 Link:- https://www.youtube.com/watch?v=TQs7PqWAGs8 </br>
 
 # Referensi
+[1]T. d. -. detikHealth, "10 Manfaat Minum Air Putih Hangat di Pagi Hari dan Sebelum Tidur," Detikcom, 17 Desember 2020. [Online]. Available: https://health.detik.com/berita-detikhealth/d-5298233/10-manfaat-minum-air-putih-hangat-di-pagi-hari-dan-sebelum-tidur/1. [Accessed 27 Oktober 2021].
+<br/>[2]A. Manullang, Martin Clinton Tosima Saputra, D. Sipangkar, and A. M. Bangun, Alexander Diva Grael Ardhi, “IoT and Cloud 1,” vol. 0, .
